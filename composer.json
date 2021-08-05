@@ -2,7 +2,7 @@
     "name": "randiapriliyadir/raven-framework",
     "description": "Raven Framework",
     "keywords": ["raven", "framework", "project template"],
-    "license": "MIT",
+    "license": "MIT License",
     "require": {
         "bramus/router": "^1.6",
         "twbs/bootstrap": "^5.0",
