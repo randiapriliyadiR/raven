@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Signin Template · Bootstrap v5.0</title>
+    <title>Raven Framework</title>
 <!-- Favicon -->
     <?php $icon=Aset::icon(); foreach ($icon as $href => $rel): ?>
     <link href="<?=$href?>" rel="<?=$rel?>">
